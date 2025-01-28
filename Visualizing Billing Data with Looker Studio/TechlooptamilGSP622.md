@@ -16,11 +16,10 @@ Start your Google CloudShell session by [clicking here](https://console.cloud.go
 
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Visualizing%20Billing%20Data%20with%20Looker%20Studio/quickla
+curl -LO raw.githubusercontent.com/adhi2k/Techloop_tamil_Arcade_Solution/refs/heads/main/Visualizing%20Billing%20Data%20with%20Looker%20Studio/Techlooptamilgsp622.sh
+sudo chmod +x Techlooptamilgsp622.sh
 
-sudo chmod +x quicklabgsp622.sh
-
-./quicklabgsp622.sh
+./Techlooptamilgsp622.sh
 ```
 
 
