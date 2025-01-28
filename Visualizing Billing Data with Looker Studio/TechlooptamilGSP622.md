@@ -1,12 +1,12 @@
 
-## 🚀 Develop Serverless Apps with Firebase: Challenge Lab | [GSP344](https://www.cloudskillsboost.google/focuses/14677?parent=catalog)
+## 🚀 Develop Serverless Apps with Firebase: Challenge Lab | [GSP622](https://www.cloudskillsboost.google/games/5876/labs/37379)
 
 ### 🔗 **Solution Video:** [Watch Here](https://youtu.be/HH-pcFC71zw)
 
 ---
 
 ## ⚠️ **Disclaimer:**
-This script and guide are provided for educational purposes to help you understand the lab process. Before using the script, I encourage you to open and review it to understand each step. Please make sure you follow Qwiklabs' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.
+This script and guide are provided for educational purposes to help you understand the lab process. Before using the script, I encourage you to open and review it to understand each step. Please make sure you follow Tchloop Tamil ' terms of service and YouTube’s community guidelines. The goal is to enhance your learning experience, not to bypass it.
 
 
 ## 🌐 **Quick Start Guide:**
@@ -16,24 +16,13 @@ Start your Google CloudShell session by [clicking here](https://console.cloud.go
 
 
 ```bash
-curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/refs/heads/master/AUGUST%20Serverless%20Firebase%20Development%20Challenge%20Lab/quicklab.sh
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Visualizing%20Billing%20Data%20with%20Looker%20Studio/quickla
+
+sudo chmod +x quicklabgsp622.sh
+
+./quicklabgsp622.sh
 ```
-- This command downloads the setup script from GitHub. The script will help configure the environment and perform necessary setup steps.
 
-
-```bash
-sudo chmod +x quicklab.sh
-```
-- This command gives execution permission to the script so that it can run.
-
-```bash
-./quicklab.sh
-```
-- This runs the script to set up your environment for the lab. It will provision resources and configure them as needed.
-
----
-
----
 
 ## 🎉 **Lab Completed!**
 
